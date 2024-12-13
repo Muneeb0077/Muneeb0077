@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muneeb0077
 - 👀 I’m interested in software development and AI (basically everything that involves logic building)
 - 🌱 I’m currently learning (Bachelor's in Software Engineering from COMSATS)
-- 💞️ I’m looking to collaborate on MERN stack related projects (Current skill stack)
+- 💞️ I’m looking to collaborate on MERN stack + NEXTJS and flutter related projects (Current skill stack)
 - 📫 How to reach me (muneebasif4213@gmail.com)
 
 <!---
